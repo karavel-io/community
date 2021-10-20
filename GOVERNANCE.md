@@ -4,7 +4,7 @@ This document illustrates the government process for the entire Karavel Project 
 Since the Project is composed of many individual projects, some independent and some interdependent, an ideal governance
 model would require a more structured approach, with a central committee acting as the coordinating body for the individual
 project maintainer committees. However, since the Karavel community is still growing and has not yet reached the momentum
-where this kind of organization is needed, we are adopting a simpler model in the time being.
+where this kind of organization is needed, we are adopting a simpler model for the time being.
 
 The Project will switch to a more suited governance model as soon as the need arises.
 
